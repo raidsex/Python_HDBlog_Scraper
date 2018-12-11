@@ -4,5 +4,6 @@
   In case you want only <b>n</n> news, edit the number of the <b>if count</b> clause.
 
 <b>Italian<b>
-  Ho creato questo script per i più pigri che vogliono comunque leggere le notizie di HDBlog.it senza dover aprire il browser o perdere tempo con le notizie meno importanti per i loro gusti.
-  In più si possono specificare i proprio interessi nella variabile "facts" e lo script, leggendo le notizie, vi darà una percentuale di "gradimento", in base alla quantità di parole che vengono trovate nel titolo.
+  
+Ho creato questo script per i più pigri che vogliono comunque leggere le notizie di HDBlog.it senza dover aprire il browser o perdere tempo con le notizie meno importanti per i loro gusti.
+In più si possono specificare i proprio interessi nella variabile "facts" e lo script, leggendo le notizie, vi darà una percentuale di "gradimento", in base alla quantità di parole che vengono trovate nel titolo.
